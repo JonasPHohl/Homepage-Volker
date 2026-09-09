@@ -5,7 +5,7 @@ Captured: 2026-09-06T15:43:46.218Z
 Pages: 4 · Assets: 7 · Size: 7.9 MB
 
 How to open: unzip the archive and open index.html in any browser.
-Internal links between downloaded pages are rewritten to relative paths, so you can browse offline.
+Internal links between downloaded pages  are rewritten to relative paths, so you can browse offline.
 
 Known limitations:
 - Server-dependent features (forms, search, login, checkout, comments) only work on the live site.
